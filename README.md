@@ -1,1 +1,1 @@
-Bai tap Project cho lop Toanroirac
+Project solutions for Discreet Mathematics class
